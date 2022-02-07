@@ -8,7 +8,8 @@ Il manque dans ce programme une gestion correcte des objets pour qu'un élément
 Pour en savoir plus, rendez vous dans la page "A propos" .
 Bon jeu !
 
-Notre GitHub: https://github.com/EtienneFaucher/Space_Invader
+![image](https://user-images.githubusercontent.com/69010419/152875480-2f4e1342-d34e-440f-a0bb-fac742fc45fa.png)
+
 
 **************SPOILER ALERT******************
 Si vous ne trouvez pas les cheat code:
